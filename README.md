@@ -82,7 +82,10 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 </div>
 
 <div>
-  ![Snake animation](https://github.com/VKenji-pa/VKenji-pa/blob/output/github-contribution-grid-snake.svg)
+    <img
+      alt="github contribution grid snake animation"
+      src="https://raw.githubusercontent.com/VKenji-pa/snk/output/github-contribution-grid-snake.svg]"
+    />
 </div>
 
 <!--
