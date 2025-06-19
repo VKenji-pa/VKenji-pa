@@ -69,7 +69,7 @@ Aqui estão algumas das tecnologias e ferramentas com as quais eu trabalho:
 ### 🌎 Idiomas
 <p>
   <strong>🇧🇷 Português</strong> - Nativo <br/>
-  <strong>🇺🇸 Inglês</strong> - Avançado (Certificação Cambridge CAE) <br/>
+  <strong>🇬🇧 Inglês</strong> - Avançado (Certificação Cambridge CAE) <br/>
 </p>
 
 ---
